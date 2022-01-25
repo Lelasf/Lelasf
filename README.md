@@ -3,9 +3,7 @@
 
 - 🔥 Beginner Web Developer
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/Lelasf" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-leoferrari-05122A?style=flat&logo=github alt="github"/>
-</a>
+- 👨‍💻 All of my projects are available at this github profile
 
 - 💬 I’m currently Learning Front-end web development - **JavaScript, HTML, CSS**
 
