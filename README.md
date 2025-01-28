@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at this github profile
 
-- 💬 I’m currently Learning Front-end web development - **JavaScript, HTML, CSS**
+- 💬 I’m currently Learning Front-end web development - **React.js**
 
 - 🔭 I’m looking for job opportunities
 
